@@ -244,7 +244,7 @@ The interactive dashboard includes:
 - **Scatter Plot:** Spend vs Revenue with trendline
 - **Age Analysis:** Conversion share and CPA by age group
 
-> 🔗 View the interactive dashboard: Open `reports/dashboard_preview.html` in your browser
+> 🔗 View the interactive dashboard: click on the live app 
 
 ---
 
