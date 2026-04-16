@@ -311,8 +311,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Satyam Kumar Jha**
-- LinkedIn: [https://linkedin.com/in/satyam-kumar-jha-27545a288]
-- GitHub: [https://github.com/Jhas876622]
+- LinkedIn: https://linkedin.com/in/satyam-kumar-jha-27545a288
+- GitHub: https://github.com/Jhas876622
 - Email: jha876622@gmail.com
 
 ---
