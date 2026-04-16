@@ -310,10 +310,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**[Your Name]**
-- LinkedIn: [your-linkedin](https://linkedin.com/in/YOUR_PROFILE)
-- GitHub: [@your-username](https://github.com/YOUR_USERNAME)
-- Email: your.email@example.com
+**Satyam Kumar Jha**
+- LinkedIn: https://linkedin.com/in/satyam-kumar-jha-27545a288
+- GitHub: https://github.com/Jhas876622
+- Email: jha876622@gmail.com
 
 ---
 
