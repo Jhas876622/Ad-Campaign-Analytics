@@ -7,6 +7,8 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)]()
 
+🚀 ## **Live App**: https://ad-campaign-analytics.onrender.com/
+
 **An end-to-end data analytics project analyzing Facebook/Meta ad campaign performance to optimize ROAS (Return on Ad Spend) through statistical analysis, SQL queries, and interactive dashboards.**
 
 ---
